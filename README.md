@@ -6,4 +6,4 @@ There are multiple classes for handling different functions. Data is extracted f
 Project was completed and tested in Eclipse.
 
 ## Running and using the program
-The program can be run by compiling "MainUI.java" in the "src" directory. It utilizes a simple user interface (with buttons, windows, drop-down menus, etc.) for requesting and navigating the information.
+The program can be run by compiling "MainUI.java". It utilizes a simple user interface (with buttons, windows, drop-down menus, etc.) for requesting and navigating the information.
