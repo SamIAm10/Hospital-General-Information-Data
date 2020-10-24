@@ -1,5 +1,5 @@
 # Hospital Information Data Utility
-A Java program that calculates and displays various hospital data in a simple GUI.
+A Java program that calculates and displays various hospital data in a simple Swing GUI.
 
 There are multiple classes for handling different functions. Data is extracted from a data file and used to calculate other statistics. 
 
